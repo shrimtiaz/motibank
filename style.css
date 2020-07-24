@@ -1,5 +1,8 @@
 body{
-    background-image: url(bank.jpg);
+    /* background-image: url(bank.jpg);
+    background-position: ;
+    background-size: 100%;
+    background-repeat: no-repeat; */
     padding: 100px;
     font-family: 'Poppins', sans-serif;
 }
